@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:version='2' class='v2' expr:dir='data:blog.languageDirection' lang='en-US' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async='async' src='https://www.googletagmanager.com/gtag/js?id=G-S1XNQ86J36'/>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag(&#39;js&#39;, new Date());
+
+  gtag(&#39;config&#39;, &#39;G-S1XNQ86J36&#39;);
+</script>
+    <meta charset='UTF-8'/>
+    <meta content='width=device-width, initial-scale=1.0, user-scalable=no' name='viewport'/>
+    <meta content='yes' name='apple-mobile-web-app-capable'/>
+    <meta content='yes' name='mobile-web-app-capable'/>
+    
+    <!-- Dynamic Meta Tags for Localization -->
+    <title id='dynamicTitle'>Gomoku - Play Free Online Strategy Game 2025</title>
+    <meta content='Play Gomoku Battle free online! Engage your mind with this 2025 mobile strategy game. No download needed—click to play now!' id='dynamicDescription' name='description'/>
+    <meta content='Gomoku Online, Free Gomoku Game, Gomoku Battle, mobile strategy games 2025, play Gomoku online free' name='keywords'/>
+    <meta content='index, follow' name='robots'/>
+    <meta content='EpicGames Studio' name='author'/>
+
+    <!-- Open Graph Tags -->
+    <meta content='Gomoku - Play Free Online Strategy Game 2025' property='og:title'/>
+    <meta content='Challenge yourself with Gomoku Battle, the ultimate free online strategy game of 2025. Align 6 balls to win!' property='og:description'/>
+    <meta content='game' property='og:type'/>
+    <meta content='https://gomokugame.blogspot.com' property='og:url'/>
+    <meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguI-e9Tng-KySSkhgnQ6EEXkLsi6CWVBVLHdmpqv2_brH6NREOcjjs3dKrAqbZAhR16BbHY9OcXAXZcggiQdu52tmKPQDcdK1lWY9T0T2cVSDFRVzrLOBQcTvihYSvefikF3JkkpeDBbjBXJA0kXZLJU9fQ9rudICRQ2oH9p-CpQiWUOQBq1g46scMEVn9/s1600/1001153792.png' property='og:image'/>
+    <meta content='1024' property='og:image:width'/>
+    <meta content='1024' property='og:image:height'/>
+    <meta content='Gomoku Battle - Free Strategy Game Preview' property='og:image:alt'/>
+
+    <!-- Twitter Card Tags -->
+    <meta content='summary_large_image' name='twitter:card'/>
+    <meta content='Gomoku - Play Free Online Strategy Game 2025' name='twitter:title'/>
+    <meta content='Play Gomoku Battle free online! Top 2025 strategy game—align 6 balls to win.' name='twitter:description'/>
+    <meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguI-e9Tng-KySSkhgnQ6EEXkLsi6CWVBVLHdmpqv2_brH6NREOcjjs3dKrAqbZAhR16BbHY9OcXAXZcggiQdu52tmKPQDcdK1lWY9T0T2cVSDFRVzrLOBQcTvihYSvefikF3JkkpeDBbjBXJA0kXZLJU9fQ9rudICRQ2oH9p-CpQiWUOQBq1g46scMEVn9/s1600/1001153792.png' name='twitter:image'/>
+
+    <!-- Canonical URL -->
+    <link href='https://gomokugame.blogspot.com' rel='canonical'/>
+
+    <!-- Apple Touch Icon -->
+    <link href='https://i.postimg.cc/j5CNWHyw/apple-touch-icon-180x180.png' rel='apple-touch-icon' sizes='180x180'/>
+
+    <!-- Preload Critical CSS -->
+    <link as='style' href='https://gomokugame.blogspot.com/assets/style.css' onload='this.rel=&quot;stylesheet&quot;' rel='preload'/>
+
+    <!-- Breadcrumb Schema -->
+    <script type='application/ld+json'>
+    {
+      &quot;@context&quot;: &quot;https://schema.org&quot;,
+      &quot;@type&quot;: &quot;BreadcrumbList&quot;,
+      &quot;itemListElement&quot;: [
+        {&quot;@type&quot;: &quot;ListItem&quot;, &quot;position&quot;: 1, &quot;name&quot;: &quot;Home&quot;, &quot;item&quot;: &quot;https://gomokugame.blogspot.com&quot;},
+        {&quot;@type&quot;: &quot;ListItem&quot;, &quot;position&quot;: 2, &quot;name&quot;: &quot;Instructions&quot;, &quot;item&quot;: &quot;https://gomokugame.blogspot.com#instructionsPage&quot;},
+        {&quot;@type&quot;: &quot;ListItem&quot;, &quot;position&quot;: 3, &quot;name&quot;: &quot;Difficulty&quot;, &quot;item&quot;: &quot;https://gomokugame.blogspot.com#difficultyPage&quot;},
+        {&quot;@type&quot;: &quot;ListItem&quot;, &quot;position&quot;: 4, &quot;name&quot;: &quot;Game&quot;, &quot;item&quot;: &quot;https://gomokugame.blogspot.com#gamePage&quot;}
+      ]
+    }
+    </script>
+
+    <!-- Updated SoftwareApplication Schema with Offers -->
+    <script type='application/ld+json'>
+    {
+      &quot;@context&quot;: &quot;https://schema.org&quot;,
+      &quot;@type&quot;: &quot;SoftwareApplication&quot;,
+      &quot;name&quot;: &quot;Gomoku Battle&quot;,
+      &quot;description&quot;: &quot;Gomoku Battle is a free online strategy game for 2025. Align 6 balls to outsmart your opponent on a 6x6 grid.&quot;,
+      &quot;url&quot;: &quot;https://gomokugame.blogspot.com&quot;,
+      &quot;applicationCategory&quot;: &quot;Game&quot;,
+      &quot;operatingSystem&quot;: &quot;Web Browser, Mobile Web&quot;,
+      &quot;author&quot;: {&quot;@type&quot;: &quot;Organization&quot;, &quot;name&quot;: &quot;EpicGames Studio&quot;},
+      &quot;aggregateRating&quot;: {&quot;@type&quot;: &quot;AggregateRating&quot;, &quot;ratingValue&quot;: &quot;4.8&quot;, &quot;bestRating&quot;: &quot;5&quot;, &quot;ratingCount&quot;: &quot;1500&quot;},
+      &quot;image&quot;: &quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguI-e9Tng-KySSkhgnQ6EEXkLsi6CWVBVLHdmpqv2_brH6NREOcjjs3dKrAqbZAhR16BbHY9OcXAXZcggiQdu52tmKPQDcdK1lWY9T0T2cVSDFRVzrLOBQcTvihYSvefikF3JkkpeDBbjBXJA0kXZLJU9fQ9rudICRQ2oH9p-CpQiWUOQBq1g46scMEVn9/s1600/1001153792.png&quot;,
+      &quot;datePublished&quot;: &quot;2025-01-01&quot;,
+      &quot;offers&quot;: {
+        &quot;@type&quot;: &quot;Offer&quot;,
+        &quot;price&quot;: &quot;0&quot;,
+        &quot;priceCurrency&quot;: &quot;USD&quot;,
+        &quot;availability&quot;: &quot;https://schema.org/InStock&quot;
+      }
+    }
+    </script>
+
+    <!-- JavaScript for Dynamic Localization -->
+    <script>
+      (async () =&gt; {
+        try {
+          const response = await fetch(&#39;https://ipapi.co/json/&#39;);
+          const data = await response.json();
+          const country = data.country_name || &#39;Global&#39;;
+          document.getElementById(&#39;dynamicTitle&#39;).textContent = `Gomoku - Play Free Online Strategy Game 2025 ${country}`;
+          document.getElementById(&#39;dynamicDescription&#39;).setAttribute(&#39;content&#39;, `Play Gomoku Battle free online in ${country}! Master this 2025 mobile strategy game by aligning 6 balls to win. Start now!`);
+        } catch (e) {
+          console.error(&#39;Localization failed:&#39;, e);
+        }
+      })();
+    </script>
+
+    <script src='https://cdn.jsdelivr.net/npm/qrcode@1.5.1/build/qrcode.min.js'/>
+    <link href='https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&amp;family=Roboto:wght@400&amp;display=swap' rel='stylesheet'/>
+    <b:skin><![CDATA[
+        /* Reset default Blogger styles */
+        html, body { margin: 0; padding: 0; height: 100%; width: 100%; overflow: hidden; font-family: 'Roboto', sans-serif; background: linear-gradient(to bottom, #1A1B41, #2E2F5B); color: #F5F7FA; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .container { width: 100%; height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 20px; position: absolute; top: 0; left: 0; transition: opacity 0.5s ease; }
+        h1 { font-family: 'Orbitron', sans-serif; font-size: 54px; color: #FFFFFF; text-shadow: 0 0 15px rgba(0, 212, 255, 0.5); padding: 18px 30px; border-radius: 20px; border: 2px solid #FFD700; animation: float 3s infinite; margin-bottom: 25px; text-align: center; }
+        h2  { font-family: 'Orbitron', sans-serif; font-size: 30px; color: #FFFFFF; margin-bottom: 25px; text-align: center; }
+        h3 { font-family: 'Orbitron', sans-serif; font-size: 24px; color: #00D4FF; margin-bottom: 20px; text-align: center; }
+        p { font-family: 'Roboto', sans-serif; font-size: 20px; color: #F5F7FA; margin: 25px 0; text-align: center; }
+        #qrPage { background: linear-gradient(to bottom, #1A1B41, #2E2F5B); border-radius: 0; box-shadow: none; padding: 40px 20px; text-align: center; height: 100vh; }
+        #qrCodeContainer { background: #FFFFFF; padding: 20px; border-radius: 20px; display: inline-block; box-shadow: 0 6px 18px rgba(0, 212, 255, 0.35); }
+        @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+        .mobile-only { touch-action: none; }
+        .header { width: 100%; max-width: 400px; display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; background: linear-gradient(to bottom, #1A1B41, #2E2F5B); padding: 12px; border-radius: 20px; border: 2px solid #00D4FF; box-shadow: 0 6px 18px rgba(0, 212, 255, 0.25); }
+        .team-box { flex: 1; padding: 10px; border-radius: 15px; text-align: center; text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5); }
+        .player-box { background: #0D0D0D; color: #F5F7FA; margin-right: 5px; border: 1px solid #FFD700; }
+        .ai-box { background: #FFFFFF; color: #1A1B41; margin-left: 5px; border: 1px solid #00D4FF; }
+        .timer-box { padding: 10px; background: linear-gradient(135deg, #3C3F66, #2E2F5B); border-radius: 15px; color: #00D4FF; text-align: center; text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5); width: 90px; border: 2px solid #00D4FF; box-shadow: 0 0 12px rgba(0, 212, 255, 0.5); animation: subtlePulse 3s infinite; }
+        .team-name { font-family: 'Orbitron', sans-serif; font-size: 18px; font-weight: 700; }
+        .score { font-family: 'Roboto', sans-serif; font-size: 16px; }
+        .timer { font-family: 'Orbitron', sans-serif; font-size: 16px; }
+        .board { display: grid; grid-template-columns: repeat(6, 50px); grid-template-rows: repeat(6, 50px); gap: 4px; background: rgba(60, 63, 102, 0.8); padding: 20px; border-radius: 25px; border: 1px solid #FFD700; box-shadow: 0 10px 35px rgba(0, 212, 255, 0.25); touch-action: none; width: 360px; height: 360px; position: relative; }
+        .cell { width: 50px; height: 50px; background: #F5F7FA; border-radius: 12px; position: relative; box-shadow: 0 0 5px rgba(255, 255, 255, 0.2); transition: transform 0.2s ease; }
+        .cell:empty:hover { transform: scale(1.05); box-shadow: 0 0 8px rgba(0, 212, 255, 0.3); }
+        .ball { width: 42px; height: 42px; border-radius: 50%; position: absolute; transform: translate(-50%, -50%); touch-action: none; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3); z-index: 5; transition: left 0.2s ease, top 0.2s ease, transform 0.3s ease; }
+        .black { background: radial-gradient(circle, #333, #0D0D0D); }
+        .white { background: radial-gradient(circle, #00D4FF, #0088CC); }
+        .dragging { z-index: 10; transform: translate(-50%, -50%) scale(1.15); transition: transform 0.3s ease; }
+        button { padding: 14px 35px; font-family: 'Orbitron', sans-serif; font-size: 18px; border: none; background: #00D4FF; color: #1A1B41; border-radius: 35px; cursor: pointer; margin: 12px 0; box-shadow: 0 6px 18px rgba(0, 212, 255, 0.35); transition: transform 0.2s, background 0.2s; text-transform: uppercase; font-weight: 700; }
+        button:hover { background: linear-gradient(to bottom, #00D4FF, #0088CC); box-shadow: 0 0 18px rgba(0, 212, 255, 0.5); transform: scale(1.05); }
+        button:active { transform: scale(0.95); }
+        .pulse { animation: pulse 1.5s infinite; }
+        .hidden { opacity: 0; pointer-events: none; }
+        :not(.hidden) { opacity: 1; }
+        #introPage { background: linear-gradient(to bottom, #1A1B41, #2E2F5B); border-radius: 0; box-shadow: none; padding: 40px 20px; text-align: center; }
+        #introPage h1 { font-size: 42px; color: #FFFFFF; text-shadow: 0 0 15px rgba(0, 212, 255, 0.5); padding: 18px 30px; border-radius: 20px; border: 2px solid #FFD700; animation: float 3s infinite; margin-bottom: 25px; }
+        #introPage h2 { font-family: 'Orbitron', sans-serif; font-size: 24px; color: #FFD700; margin-bottom: 25px; }
+        #introPage button { padding: 20px 55px; font-size: 20px; border: 3px solid #FFD700; }
+        #introPage p { font-size: 18px; color: #F5F7FA; margin-bottom: 30px; }
+        #previewBoard { display: grid; grid-template-columns: repeat(6, 28px); grid-template-rows: repeat(6, 28px); gap: 2px; padding: 10px; margin-top: 20px; width: 200px; height: 200px; margin-left: auto; margin-right: auto; }
+        .preview-cell { width: 28px; height: 28px; background: #F5F7FA; border-radius: 6px; position: relative; }
+        .preview-ball { width: 24px; height: 24px; border-radius: 50%; position: absolute; transform: translate(-50%, -50%); box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3); animation: fadeIn 0.5s ease forwards; }
+        #instructionsPage { background: #2E2F5B; border-radius: 0; box-shadow: none; padding: 30px 20px; text-align: center; }
+        #instructionsPage h3 { font-size: 24px; color: #00D4FF; margin-bottom: 30px; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); }
+        #instructionsPage ol { list-style: none; counter-reset: instruction-counter; padding: 0; max-width: 360px; margin: 0 auto 30px auto; }
+        #instructionsPage li { counter-increment: instruction-counter; font-family: 'Roboto', sans-serif; font-size: 22px; font-weight: 700; color: #F5F7FA; margin: 20px 0; position: relative; padding-left: 50px; text-align: left; line-height: 1.4; text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3); }
+        #instructionsPage li:before { content: counter(instruction-counter) "."; position: absolute; left: 0; font-family: 'Orbitron', sans-serif; font-size: 28px; font-weight: 700; color: #00D4FF; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.4); width: 40px; text-align: right; }
+        #difficultyPage { background: linear-gradient(to bottom, #1A1B41, #2E2F5B); border-radius: 0; box-shadow: none; padding: 40px 20px; text-align: center; }
+        #difficultyPage h1 { font-size: 42px; color: #FFFFFF; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6); padding: 18px 30px; border-radius: 20px; border: 2px solid #FFD700; margin-bottom: 35px; background: #3C3F66; }
+        #instructionsPage button, #difficultyPage button { display: block; margin: 18px auto; padding: 14px 45px; font-size: 20px; border: 2px solid #FFD700; }
+        #gamePage { background: linear-gradient(to bottom, #1A1B41, #2E2F5B); padding: 30px 20px; }
+        #gamePage .title-header { width: 100%; max-width: 400px; background: linear-gradient(to bottom, #1A1B41, #2E2F5B); padding: 18px; border-radius: 20px; border: 2px solid #00D4FF; box-shadow: 0 6px 18px rgba(0, 212, 255, 0.25); text-align: center; margin-bottom: 25px; }
+        #gamePage .title-header h1 { font-size: 28px; animation: none; }
+        #certificate { position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 340px; padding: 25px; background: #F5F7FA; background-image: linear-gradient(45deg, rgba(0, 212, 255, 0.1), rgba(255, 215, 0, 0.1)); border: 3px dashed #00D4FF; border-radius: 25px; box-shadow: 0 12px 45px rgba(0, 0, 0, 0.5); text-align: center; z-index: 100; animation: popIn 0.5s ease; }
+        #certificate h2 { font-family: 'Orbitron', sans-serif; font-size: 36px; color: #1A1B41; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); margin-bottom: 18px; }
+        #certificate p { font-size: 18px; color: #1A1B41; margin: 14px 0; }
+        #certificate .divider { width: 80%; height: 2px; background: #00D4FF; margin: 18px auto; }
+        #certificate button { background: #00D4FF; padding: 12px 30px; font-size: 18px; border-radius: 25px; margin: 10px auto; display: block; }
+        #certificate .difficulty-btn { background: #FFD700; color: #1A1B41; padding: 12px 30px; font-size: 18px; border-radius: 25px; margin: 10px auto; display: block; }
+        #certificate .difficulty-btn:hover { background: linear-gradient(to bottom, #FFD700, #D4AF37); box-shadow: 0 0 18px rgba(255, 215, 0, 0.5); transform: scale(1.05); }
+        .trophy-container { display: flex; justify-content: space-between; margin-bottom: 18px; }
+        .trophy { width: 60px; height: 60px; animation: rotate 2s infinite linear; }
+        #overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); z-index: 99; transition: opacity 0.2s ease; }
+        @keyframes bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+        @keyframes pulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.05); } }
+        @keyframes subtlePulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.01); } }
+        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+        @keyframes popIn { from { transform: translate(-50%, -50%) scale(0.8); opacity: 0; } to { transform: translate(-50%, -50%) scale(1); opacity: 1; } }
+        @keyframes rotate { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+        #main-section { display: none; }
+    ]]></b:skin>
+</head>
+<body>
+    <!-- Noscript Fallback for SPA Crawlability -->
+    <noscript>
+      <div style='display: none;'>
+        <h2>Gomoku Battle - Free Online Strategy Game</h2>
+        <p>Welcome to Gomoku Battle, a thrilling free online strategy game for 2025. Align 6 balls on a 6x6 grid to outsmart your opponent. Visit <a href='https://gomokugame.blogspot.com#introPage'>Gomoku Battle Home</a> to start playing now!</p>
+        <h2>Instructions</h2>
+        <p>Learn how to play at <a href='https://gomokugame.blogspot.com#instructionsPage'>Instructions</a>: Drag black balls to form a line of 6&#8212;horizontally, vertically, or diagonally. Move one ball at a time and counter your opponent&#8217;s moves.</p>
+        <h2>Difficulty</h2>
+        <p>Choose your challenge level at <a href='https://gomokugame.blogspot.com#difficultyPage'>Difficulty</a>: Easy, Medium, or Hard. Perfect for all skill levels!</p>
+        <h2>Gameplay</h2>
+        <p>Dive into the action at <a href='https://gomokugame.blogspot.com#gamePage'>Gameplay</a>. No download needed&#8212;play Gomoku online free on mobile or desktop!</p>
+      </div>
+    </noscript>
+
+   <!-- Hidden SEO Content (Expanded for Google Bots) -->
+<div style='display: none;'>
+  <h2>Gomoku Battle - Free Online Strategy Game 2025</h2>
+  <p><strong>For Googlebot:</strong> This hidden section offers an optimized overview of Gomoku Battle, a free online strategy game by EpicGames Studio, launched for 2025. Concealed for a clean user experience, it delivers crawlable, keyword-rich details and structured insights to boost indexing for queries like &#8220;Gomoku online,&#8221; &#8220;mobile strategy games,&#8221; and &#8220;free 2025 games.&#8221;</p>
+  
+  <h2>What Is Gomoku Battle?</h2>
+  <p>Gomoku Battle modernizes the classic Gomoku&#8212;a strategic treasure from East Asian traditions like Go&#8212;for today&#8217;s fast-paced players. On a 6x6 grid, align six black balls against an AI&#8217;s cyan pieces to win <a href='https://gomokugame.blogspot.com#gamePage'>horizontally, vertically, or diagonally</a>. Unlike traditional stone placement, you drag one ball per turn to an adjacent cell, mixing chess-like tactics with real-time tension. Play instantly at <a href='https://gomokugame.blogspot.com'>gomokugame.blogspot.com</a>&#8212;no downloads required.</p>
+  
+  <h2>How to Play Gomoku Battle</h2>
+  <p>Start on the <a href='https://gomokugame.blogspot.com#introPage'>home page</a> and check the <a href='https://gomokugame.blogspot.com#instructionsPage'>instructions</a>: drag a black ball one space, block the AI&#8217;s cyan line, and aim for six in a row. Pick your level&#8212;Easy, Medium, or Hard&#8212;via <a href='https://gomokugame.blogspot.com#difficultyPage'>difficulty settings</a>. The 36-cell grid begins with six black and six cyan balls scattered randomly, tracked by a live timer that rewards swift victories with bonus points.</p>
+  
+  <h2>How Gomoku Battle Boosts Your Mind and Kills Boredom</h2>
+  <p>Gomoku Battle is a fast-loading, skill-free, data-light strategy game that sharpens your mind and crushes boredom in 2025. No skills needed&#8212;jump in with zero learning curve, dragging black balls to outsmart the AI. It loads instantly, sipping minimal data, making it perfect for mobile play anywhere. Planning moves boosts focus, blocking trains adaptability, and chasing six-in-a-row hones quick thinking. The compact grid and dynamic AI keep monotony at bay, turning idle time into brain-boosting fun.</p>
+  
+  <h2>Gomoku&#8217;s Strategic Roots and Modern Edge</h2>
+  <p>Rooted in Go and chess, Gomoku blends spatial mastery with calculated play&#8212;explore its origins at <a href='https://www.britannica.com/topic/Go-game' target='_blank'>Britannica</a> or tactics at <a href='https://www.chess.com/learn-how-to-play-chess' target='_blank'>Chess.com</a>. Gomoku Battle adds a neon-lit, mobile-first twist for 2025, outshining other <a href='https://play.google.com/store/apps/category/GAME_STRATEGY' target='_blank'>Google Play strategy titles</a> with its no-download edge. Central cells give tactical leverage, and efficient wins amplify scores&#8212;pure, accessible brilliance.</p>
+</div>
+    <b:if cond='data:blog.pageType == &quot;index&quot;'>
+        <!-- Desktop QR Page -->
+        <b:if cond='data:blog.isMobileRequest == &quot;false&quot;'>
+            <div class='container' id='qrPage'>
+                <h1>Gomoku Game</h1>
+             <p>Scan the QR code to play this game on your phone:</p>
+                <div id='qrCodeContainer'/>
+                <p>Optimized for mobile. Enjoy Gomoku Battle at GomokuGame</p>
+            </div>
+            <script type='text/javascript'>
+                //<![CDATA[
+                const gameUrl = "https://gomokugame.blogspot.com";
+                const qrCodeContainer = document.getElementById("qrCodeContainer");
+                qrCodeContainer.innerHTML = "";
+                QRCode.toCanvas(gameUrl, { width: 200, margin: 2 }, function (error, canvas) {
+                    if (error) console.error(error);
+                    qrCodeContainer.appendChild(canvas);
+                });
+                //]]>
+            </script>
+        </b:if>
+
+        <!-- Mobile Game Content -->
+        <b:if cond='data:blog.isMobileRequest == &quot;true&quot;'>
+            <script src='https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js'/>
+            <div class='container mobile-only' id='introPage'>
+                <h1>Gomoku Battle</h1>
+          
+                <button class='pulse' onclick='showInstructions()'>Get Started</button>
+                <div id='previewBoard'/>
+            </div>
+
+            <div class='container mobile-only hidden' id='instructionsPage'>
+                <h3>How to Play</h3>
+                <ol>
+                    <li>Drag black balls to form a line of 6 either horizontally, vertically, or diagonally to win.</li>
+                    <li>Move one ball at a time, you cannot jump other balls or cells.</li>
+                    <li>Wait for your opponent to counter each turn. The game lasts until someone wins.</li>
+                </ol>
+                <button onclick='showDifficulty()'>Next</button>
+            </div>
+
+            <div class='container mobile-only hidden' id='difficultyPage'>
+                <h2>Select Difficulty</h2>
+                <button onclick='startGame(&quot;easy&quot;)'>Easy</button>
+                <button onclick='startGame(&quot;medium&quot;)'>Medium</button>
+                <button onclick='startGame(&quot;hard&quot;)'>Hard</button>
+            </div>
+
+            <div class='container mobile-only hidden' id='gamePage'>
+                <div class='title-header'>
+                    <h2>Gomoku Puzzle</h2>
+                </div>
+                <div class='header'>
+                    <div class='team-box player-box'>
+                        <div class='team-name'>You</div>
+                        <div class='score' id='playerScore'>0</div>
+                    </div>
+                    <div class='timer-box'>
+                        <div class='timer' id='timer'>0:00</div>
+                    </div>
+                    <div class='team-box ai-box'>
+                        <div class='team-name'/>
+                        <div class='score' id='aiScore'>0</div>
+                    </div>
+                </div>
+                <div class='board' id='gameBoard'/>
+            </div>
+
+            <div class='mobile-only hidden' id='overlay' style='display: none;'/>
+            <div class='mobile-only hidden' id='certificate' style='display: none;'>
+                <div class='trophy-container'>
+                    <img alt='Trophy' class='trophy' src='data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 64 64&quot;%3E%3Cpath d=&quot;M32 2C15.43 2 2 15.43 2 32s13.43 30 30 30 30-13.43 30-30S48.57 2 32 2zm0 56c-13.25 0-24-10.75-24-24S18.75 8 32 8s24 10.75 24 24-10.75 24-24 24zm-8-40v12h16V18H24zm0 16v12h16V34H24z&quot; fill=&quot;%23FFD700&quot;/%3E%3C/svg%3E'/>
+                    <img alt='Trophy' class='trophy' src='data:image/svg+xml,%3Csvg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 64 64&quot;%3E%3Cpath d=&quot;M32 2C15.43 2 2 15.43 2 32s13.43 30 30 30 30-13.43 30-30S48.57 2 32 2zm0 56c-13.25 0-24-10.75-24-24S18.75 8 32 8s24 10.75 24 24-10.75 24-24 24zm-8-40v12h16V18H24zm0 16v12h16V34H24z&quot; fill=&quot;%23FFD700&quot;/%3E%3C/svg%3E'/>
+                </div>
+                <h2 id='certificateTitle'/>
+                <p id='certificateResult'/>
+                <div class='divider'/>
+                <p>Your Score: <span id='certificatePlayerScore'/></p>
+                <p>Opponent&#39;s Score: <span id='certificateAIScore'/></p>
+                <p>Time Taken: <span id='certificateTime'/></p>
+                <button onclick='initBoard(); hideCertificate();'>Play Again</button>
+                <button class='difficulty-btn' onclick='showDifficultyFromCertificate();'>Change Difficulty</button>
+            </div>
+
+            <audio id='winSound' src='https://assets.mixkit.co/sfx/preview/mixkit-game-level-completed-1610.mp3'/>
+            <audio id='loseSound' src='https://assets.mixkit.co/sfx/preview/mixkit-player-losing-or-failing-2042.mp3'/>
+            <audio id='moveSound' src='https://assets.mixkit.co/sfx/preview/mixkit-game-piece-drop-2166.mp3'/>
+            <audio id='buttonClickSound' src='https://assets.mixkit.co/sfx/preview/mixkit-single-key-type-2542.mp3'/>
+            <audio id='selectSound' src='https://assets.mixkit.co/sfx/preview/mixkit-positive-interface-beep-221.mp3'/>
+
+            <script type='text/javascript'>
+                //<![CDATA[
+                const boardSize = 6;
+                const numBallsPerPlayer = 6;
+                let gameState = [];
+                let selectedBall = null;
+                let isPlayerTurn = true;
+                let gameOver = false;
+                let difficulty = 'medium';
+                let moveCount = 0;
+                let playerMoveCount = 0;
+                let aiMoveCount = 0;
+                let lastPlayerMoves = [];
+                let lastAIMoves = [];
+                let playerScore = 0;
+                let aiScore = 0;
+                let gameStartTime = null;
+                let timerInterval = null;
+                const directions = [[-1, 0], [1, 0], [0, -1], [0, 1]];
+                const cellSize = 50;
+                const boardPadding = 20;
+                const ballSize = 42;
+                const gapSize = 4;
+                const keyCells = [[2, 2], [2, 3], [3, 2], [3, 3]];
+                const namesPool = ["Alex", "Sam", "Taylor", "Jordan", "Chris", "Jamie", "Pat", "Lee", "Kelly", "Robin", "Morgan", "Casey", "Drew", "Riley", "Quinn", "Avery"];
+                let currentAIName = "";
+                const difficultyMultipliers = { 'easy': 1.0, 'medium': 1.5, 'hard': 2.0 };
+                const maxMovesForBonus = 50;
+
+                function updateURL(fragment) {
+                    const newURL = `${window.location.pathname}${fragment}`;
+                    history.pushState({ page: fragment }, document.title, newURL);
+                }
+
+                function initPreviewBoard() {
+                    const previewBoard = document.getElementById("previewBoard");
+                    previewBoard.innerHTML = "";
+                    let positions = [];
+                    for (let row = 0; row < boardSize; row++) {
+                        for (let col = 0; col < boardSize; col++) {
+                            positions.push([row, col]);
+                        }
+                    }
+                    positions.sort(() => Math.random() - 0.5);
+                    const selectedPositions = positions.slice(0, 6);
+                    const blackPositions = selectedPositions.slice(0, 3);
+                    const whitePositions = selectedPositions.slice(3, 6);
+
+                    for (let row = 0; row < boardSize; row++) {
+                        for (let col = 0; col < boardSize; col++) {
+                            let cell = document.createElement("div");
+                            cell.classList.add("preview-cell");
+                            if (blackPositions.some(([r, c]) => r === row && c === col)) {
+                                let ball = document.createElement("div");
+                                ball.classList.add("preview-ball", "black");
+                                ball.style.left = "50%";
+                                ball.style.top = "50%";
+                                ball.style.animationDelay = `${(row * boardSize + col) * 0.05}s`;
+                                cell.appendChild(ball);
+                            } else if (whitePositions.some(([r, c]) => r === row && c === col)) {
+                                let ball = document.createElement("div");
+                                ball.classList.add("preview-ball", "white");
+                                ball.style.left = "50%";
+                                ball.style.top = "50%";
+                                ball.style.animationDelay = `${(row * boardSize + col) * 0.05}s`;
+                                cell.appendChild(ball);
+                            }
+                            previewBoard.appendChild(cell);
+                        }
+                    }
+                }
+
+                function showInstructions() {
+                    document.getElementById("introPage").classList.add("hidden");
+                    document.getElementById("instructionsPage").classList.remove("hidden");
+                    document.getElementById("difficultyPage").classList.add("hidden");
+                    document.getElementById("gamePage").classList.add("hidden");
+                    updateURL("#instructionsPage");
+                    try { document.getElementById("buttonClickSound").play(); } catch (e) {}
+                }
+
+                function showDifficulty() {
+                    document.getElementById("introPage").classList.add("hidden");
+                    document.getElementById("instructionsPage").classList.add("hidden");
+                    document.getElementById("difficultyPage").classList.remove("hidden");
+                    document.getElementById("gamePage").classList.add("hidden");
+                    updateURL("#difficultyPage");
+                    try { document.getElementById("buttonClickSound").play(); } catch (e) {}
+                }
+
+                function showDifficultyFromCertificate() {
+                    hideCertificate();
+                    document.getElementById("introPage").classList.add("hidden");
+                    document.getElementById("instructionsPage").classList.add("hidden");
+                    document.getElementById("difficultyPage").classList.remove("hidden");
+                    document.getElementById("gamePage").classList.add("hidden");
+                    updateURL("#difficultyPage");
+                    try { document.getElementById("buttonClickSound").play(); } catch (e) {}
+                }
+
+                function startGame(selectedDifficulty) {
+                    difficulty = selectedDifficulty;
+                    const difficultyNames = {
+                        'easy': namesPool.slice(0, 5),
+                        'medium': namesPool.slice(5, 10),
+                        'hard': namesPool.slice(10)
+                    };
+                    const nameOptions = difficultyNames[selectedDifficulty];
+                    currentAIName = nameOptions[Math.floor(Math.random() * nameOptions.length)];
+                    document.getElementById("introPage").classList.add("hidden");
+                    document.getElementById("instructionsPage").classList.add("hidden");
+                    document.getElementById("difficultyPage").classList.add("hidden");
+                    document.getElementById("gamePage").classList.remove("hidden");
+                    updateURL("#gamePage");
+                    try { document.getElementById("selectSound").play(); } catch (e) {}
+                    initBoard();
+                }
+
+                function startTimer() {
+                    gameStartTime = Date.now();
+                    timerInterval = setInterval(() => {
+                        let elapsed = Math.floor((Date.now() - gameStartTime) / 1000);
+                        let minutes = Math.floor(elapsed / 60);
+                        let seconds = elapsed % 60;
+                        document.getElementById("timer").textContent = `${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
+                    }, 1000);
+                }
+
+                function initBoard() {
+                    const board = document.getElementById("gameBoard");
+                    board.innerHTML = "";
+                    gameState = Array(boardSize).fill().map(() => Array(boardSize).fill(null));
+                    isPlayerTurn = false;
+                    gameOver = false;
+                    moveCount = 0;
+                    playerMoveCount = 0;
+                    aiMoveCount = 0;
+                    lastPlayerMoves = [];
+                    lastAIMoves = [];
+                    playerScore = 0;
+                    aiScore = 0;
+                    document.getElementById("playerScore").textContent = "0";
+                    document.getElementById("aiScore").textContent = "0";
+                    document.getElementById("timer").textContent = "0:00";
+                    if (timerInterval) clearInterval(timerInterval);
+                    document.querySelector(".ai-box .team-name").textContent = currentAIName;
+
+                    hideCertificate();
+
+                    let positions = [];
+                    for (let row = 0; row < boardSize; row++) {
+                        for (let col = 0; col < boardSize; col++) {
+                            positions.push([row, col]);
+                        }
+                    }
+                    positions.sort(() => Math.random() - 0.5);
+                    for (let i = 0; i < numBallsPerPlayer; i++) {
+                        const [row, col] = positions[i];
+                        gameState[row][col] = "AI";
+                    }
+                    for (let i = numBallsPerPlayer; i < 2 * numBallsPerPlayer; i++) {
+                        const [row, col] = positions[i];
+                        gameState[row][col] = "Player";
+                    }
+
+                    if (checkWinForState(gameState)) { initBoard(); return; }
+
+                    for (let row = 0; row < boardSize; row++) {
+                        for (let col = 0; col < boardSize; col++) {
+                            let cell = document.createElement("div");
+                            cell.classList.add("cell");
+                            cell.dataset.row = row;
+                            cell.dataset.col = col;
+                            if (gameState[row][col]) {
+                                let ball = document.createElement("div");
+                                ball.classList.add("ball", gameState[row][col] === "Player" ? "black" : "white");
+                                ball.dataset.row = row;
+                                ball.dataset.col = col;
+                                ball.style.left = `${col * (cellSize + gapSize) + cellSize / 2 + boardPadding}px`;
+                                ball.style.top = `${row * (cellSize + gapSize) + cellSize / 2 + boardPadding}px`;
+                                ball.addEventListener("touchstart", (e) => startDrag(e, ball), { passive: false });
+                                board.appendChild(ball);
+                            }
+                            board.appendChild(cell);
+                        }
+                    }
+                    startTimer();
+                    setTimeout(() => {
+                        aiMove();
+                        if (!gameOver) {
+                            isPlayerTurn = true;
+                        }
+                    }, 200);
+                }
+
+                function startDrag(event, ball) {
+                    if (gameState[ball.dataset.row][ball.dataset.col] !== "Player" || !isPlayerTurn || gameOver) return;
+                    event.preventDefault();
+                    selectedBall = ball;
+                    selectedBall.classList.add("dragging");
+
+                    const board = document.getElementById("gameBoard");
+                    const boardRect = board.getBoundingClientRect();
+
+                    let lastTouch = null;
+
+                    const moveHandler = (e) => {
+                        e.preventDefault();
+                        lastTouch = e.touches[0];
+                        requestAnimationFrame(() => {
+                            if (!selectedBall) return;
+                            let dx = lastTouch.clientX - boardRect.left;
+                            let dy = lastTouch.clientY - boardRect.top;
+                            dx = Math.max(boardPadding + ballSize / 2, Math.min(dx, boardRect.width - boardPadding - ballSize / 2));
+                            dy = Math.max(boardPadding + ballSize / 2, Math.min(dy, boardRect.height - boardPadding - ballSize / 2));
+                            selectedBall.style.left = `${dx}px`;
+                            selectedBall.style.top = `${dy}px`;
+                        });
+                    };
+
+                    const endHandler = (e) => {
+                        selectedBall.classList.remove("dragging");
+                        let touch = e.changedTouches[0];
+                        let dropX = touch.clientX - boardRect.left;
+                        let dropY = touch.clientY - boardRect.top;
+
+                        let newCol = Math.floor((dropX - boardPadding) / (cellSize + gapSize));
+                        let newRow = Math.floor((dropY - boardPadding) / (cellSize + gapSize));
+                        let oldRow = parseInt(selectedBall.dataset.row);
+                        let oldCol = parseInt(selectedBall.dataset.col);
+
+                        newCol = Math.max(0, Math.min(newCol, boardSize - 1));
+                        newRow = Math.max(0, Math.min(newRow, boardSize - 1));
+
+                        if (isValidMove(oldRow, oldCol, newRow, newCol)) {
+                            moveBall(oldRow, oldCol, newRow, newCol, "Player");
+                            lastPlayerMoves.unshift([oldRow, oldCol, newRow, newCol]);
+                            if (lastPlayerMoves.length > 5) lastPlayerMoves.pop();
+                            playerMoveCount++;
+                            updateScore("Player", oldRow, oldCol, newRow, newCol);
+                            moveCount++;
+                            if (!checkWin()) {
+                                isPlayerTurn = false;
+                                setTimeout(() => {
+                                    aiMove();
+                                    if (!gameOver) {
+                                        isPlayerTurn = true;
+                                    }
+                                }, 200);
+                            }
+                        } else {
+                            snapBack(selectedBall, oldRow, oldCol);
+                        }
+
+                        selectedBall = null;
+                        document.removeEventListener("touchmove", moveHandler);
+                        document.removeEventListener("touchend", endHandler);
+                    };
+
+                    document.addEventListener("touchmove", moveHandler, { passive: false });
+                    document.addEventListener("touchend", endHandler);
+                }
+
+                function snapBack(ball, row, col) {
+                    ball.style.left = `${col * (cellSize + gapSize) + cellSize / 2 + boardPadding}px`;
+                    ball.style.top = `${row * (cellSize + gapSize) + cellSize / 2 + boardPadding}px`;
+                }
+
+                function isValidMove(oldRow, oldCol, newRow, newCol) {
+                    if (newRow < 0 || newRow >= boardSize || newCol < 0 || newCol >= boardSize) return false;
+                    if (gameState[newRow][newCol] !== null) return false;
+                    const rowDiff = Math.abs(newRow - oldRow);
+                    const colDiff = Math.abs(newCol - oldCol);
+                    return (rowDiff === 1 && colDiff === 0) || (rowDiff === 0 && colDiff === 1);
+                }
+
+                function moveBall(oldRow, oldCol, newRow, newCol, player) {
+                    gameState[oldRow][oldCol] = null;
+                    gameState[newRow][newCol] = player;
+                    let ball = document.querySelector(`.ball[data-row="${oldRow}"][data-col="${oldCol}"]`);
+                    ball.dataset.row = newRow;
+                    ball.dataset.col = newCol;
+                    ball.style.left = `${newCol * (cellSize + gapSize) + cellSize / 2 + boardPadding}px`;
+                    ball.style.top = `${newRow * (cellSize + gapSize) + cellSize / 2 + boardPadding}px`;
+                    try { document.getElementById("moveSound").play(); } catch (e) {}
+                }
+
+                function evaluateTrapping(board, move, player) {
+                    let tempBoard = board.map(row => [...row]);
+                    tempBoard[move[0]][move[1]] = null;
+                    tempBoard[move[2]][move[3]] = player;
+
+                    let trapScore = 0;
+                    let opponent = player === "Player" ? "AI" : "Player";
+                    let trappedBalls = [];
+
+                    for (let [dr, dc] of directions) {
+                        let r = move[2] + dr;
+                        let c = move[3] + dc;
+                        if (r >= 0 && r < boardSize && c >= 0 && c < boardSize && tempBoard[r][c] === opponent) {
+                            trappedBalls.push([r, c]);
+                        }
+                    }
+
+                    for (let [row, col] of trappedBalls) {
+                        let surrounding = 0;
+                        let mobility = 0;
+                        for (let [dr, dc] of directions) {
+                            let r = row + dr;
+                            let c = col + dc;
+                            if (r >= 0 && r < boardSize && c >= 0 && c < boardSize) {
+                                if (tempBoard[r][c] === player) surrounding++;
+                                if (tempBoard[r][c] === null) mobility++;
+                            }
+                        }
+                        if (player === "Player") {
+                            if (surrounding === 4) trapScore += 50;
+                            else if (surrounding >= 3 && mobility <= 1) trapScore += 40;
+                            else if (surrounding >= 2 && mobility <= 2) trapScore += 20;
+                        } else {
+                            if (surrounding === 4) trapScore += 30;
+                            else if (surrounding >= 3 && mobility <= 1) trapScore += 20;
+                            else if (surrounding >= 2 && mobility <= 2) trapScore += 10;
+                        }
+                    }
+
+                    if (trappedBalls.length > 1) {
+                        trapScore += trappedBalls.length * (player === "Player" ? 10 : 5);
+                    }
+
+                    return trapScore;
+                }
+
+                function updateScore(player, oldRow, oldCol, newRow, newCol) {
+                    let move = [oldRow, oldCol, newRow, newCol];
+                    let opponent = player === "Player" ? "AI" : "Player";
+
+                    let lines = countLines(gameState, player);
+                    let moveScore = lines.max * 15;
+                    if (keyCells.some(([r, c]) => r === newRow && c === newCol)) moveScore += 10;
+
+                    let trapScore = evaluateTrapping(gameState, move, player);
+                    moveScore += trapScore;
+
+                    let opponentLines = countLines(gameState, opponent);
+                    if (opponentLines.max >= 5) {
+                        let winningLine = opponentLines.winningLine;
+                        let canBlock = false;
+                        for (let [dr, dc] of [[0, 1], [1, 0], [1, 1], [1, -1]]) {
+                            let startRow = winningLine[0][0] - dr;
+                            let startCol = winningLine[0][1] - dc;
+                            let endRow = winningLine[winningLine.length - 1][0] + dr;
+                            let endCol = winningLine[winningLine.length - 1][1] + dc;
+                            if ((startRow === newRow && startCol === newCol) || (endRow === newRow && endCol === newCol)) {
+                                canBlock = true;
+                            }
+                        }
+                        if (canBlock) moveScore += (player === "Player" ? 30 : 15);
+                    }
+
+                    let movesToWinBefore = estimateMovesToWin(gameState.map(row => [...row]), player, 4).moves;
+                    let tempBoard = gameState.map(row => [...row]);
+                    tempBoard[oldRow][oldCol] = player;
+                    tempBoard[newRow][newCol] = null;
+                    let movesToWinAfter = estimateMovesToWin(tempBoard, player, 4).moves;
+                    if (movesToWinBefore > movesToWinAfter && movesToWinBefore !== Infinity) {
+                        moveScore += (player === "Player" ? 30 : 20) * (movesToWinBefore - movesToWinAfter);
+                    }
+
+                    let trappedPenalty = evaluateTrapping(gameState, move, opponent);
+                    moveScore -= (player === "Player" ? trappedPenalty / 2 : trappedPenalty);
+
+                    let movesBefore = getPossibleMoves(tempBoard, player).length;
+                    let movesAfter = getPossibleMoves(gameState, player).length;
+                    let mobilityPenalty = (player === "Player" ? 3 : 5) * (movesBefore - movesAfter);
+                    moveScore -= mobilityPenalty;
+
+                    let opponentMoves = getPossibleMoves(gameState, opponent);
+                    let enablesWin = false;
+                    for (let oppMove of opponentMoves) {
+                        let testBoard = gameState.map(row => [...row]);
+                        testBoard[oppMove[0]][oppMove[1]] = null;
+                        testBoard[oppMove[2]][oppMove[3]] = opponent;
+                        if (countLines(testBoard, opponent).max >= boardSize) {
+                            enablesWin = true;
+                            break;
+                        }
+                    }
+                    if (enablesWin) moveScore -= 100;
+
+                    if (player === "AI") {
+                        moveScore = Math.min(100, moveScore);
+                    }
+
+                    if (player === "Player") {
+                        playerScore += moveScore;
+                        playerScore = Math.max(0, playerScore);
+                        document.getElementById("playerScore").textContent = Math.round(playerScore);
+                    } else {
+                        aiScore += moveScore;
+                        aiScore = Math.max(0, aiScore);
+                        document.getElementById("aiScore").textContent = Math.round(aiScore);
+                    }
+                }
+
+                function applyWinBonuses(winner) {
+                    const moveCountToUse = winner === "Player" ? playerMoveCount : aiMoveCount;
+                    const winningBonus = winner === "Player" ? 150 : 100;
+                    const efficiencyMultiplier = winner === "Player" ? 7 : 5;
+                    const efficiencyBonus = efficiencyMultiplier * (maxMovesForBonus - moveCountToUse);
+                    const difficultyMultiplier = difficultyMultipliers[difficulty];
+                    const lossPenalty = winner === "Player" ? 100 : 50;
+
+                    if (winner === "Player") {
+                        playerScore += winningBonus;
+                        playerScore += efficiencyBonus;
+                        playerScore = Math.round(playerScore * difficultyMultiplier);
+                        aiScore -= lossPenalty;
+                        aiScore = Math.max(0, aiScore);
+                        document.getElementById("playerScore").textContent = playerScore;
+                        document.getElementById("aiScore").textContent = aiScore;
+                    } else {
+                        aiScore += winningBonus;
+                        aiScore += efficiencyBonus;
+                        aiScore = Math.round(aiScore * difficultyMultiplier);
+                        playerScore -= lossPenalty;
+                        playerScore = Math.max(0, playerScore);
+                        document.getElementById("playerScore").textContent = playerScore;
+                        document.getElementById("aiScore").textContent = aiScore;
+                    }
+                }
+
+                function countLines(board, player) {
+                    let maxLine = 0;
+                    let winningLine = [];
+
+                    for (let row = 0; row < boardSize; row++) {
+                        for (let col = 0; col < boardSize; col++) {
+                            if (board[row][col] === player) {
+                                for (let [dr, dc] of [[0, 1], [1, 0], [1, 1], [1, -1]]) {
+                                    let count = 1;
+                                    let line = [[row, col]];
+                                    for (let i = 1; i < boardSize; i++) {
+                                        let r = row + i * dr;
+                                        let c = col + i * dc;
+                                        if (r >= boardSize || c >= boardSize || c < 0 || board[r][c] !== player) break;
+                                        count++;
+                                        line.push([r, c]);
+                                    }
+                                    if (count > maxLine) {
+                                        maxLine = count;
+                                        winningLine = line;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    return { max: maxLine, winningLine };
+                }
+
+                function checkWinForState(board) {
+                    return countLines(board, "Player").max >= boardSize || countLines(board, "AI").max >= boardSize;
+                }
+
+                function checkWin() {
+                    let playerLines = countLines(gameState, "Player");
+                    let aiLines = countLines(gameState, "AI");
+
+                    if (playerLines.max >= boardSize) {
+                        gameOver = true;
+                        clearInterval(timerInterval);
+                        let elapsed = Math.floor((Date.now() - gameStartTime) / 1000);
+                        let minutes = Math.floor(elapsed / 60);
+                        let seconds = elapsed % 60;
+                        let timeTaken = `${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
+                        applyWinBonuses("Player");
+                        confetti({
+                            particleCount: 150,
+                            spread: 70,
+                            origin: { y: 0.6 },
+                            colors: ['#FFD700', '#00D4FF', '#0088CC']
+                        });
+                        setTimeout(() => showCertificate("Victory!", `You are a genius! Good job outsmarting ${currentAIName}!`, timeTaken), 100);
+                        try { document.getElementById("winSound").play(); } catch (e) {}
+                        return true;
+                    }
+
+                    if (aiLines.max >= boardSize) {
+                        gameOver = true;
+                        clearInterval(timerInterval);
+                        let elapsed = Math.floor((Date.now() - gameStartTime) / 1000);
+                        let minutes = Math.floor(elapsed / 60);
+                        let seconds = elapsed % 60;
+                        let timeTaken = `${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
+                        applyWinBonuses("AI");
+                        setTimeout(() => showCertificate("Defeat!", `${currentAIName} has bested you this time!`, timeTaken), 100);
+                        try { document.getElementById("loseSound").play(); } catch (e) {}
+                        return true;
+                    }
+                    return false;
+                }
+
+                function getPossibleMoves(board, player) {
+                    let moves = [];
+                    for (let row = 0; row < boardSize; row++) {
+                        for (let col = 0; col < boardSize; col++) {
+                            if (board[row][col] === player) {
+                                for (let [dr, dc] of directions) {
+                                    let newRow = row + dr;
+                                    let newCol = col + dc;
+                                    if (newRow >= 0 && newRow < boardSize && newCol >= 0 && newCol < boardSize && board[newRow][newCol] === null) {
+                                        moves.push([row, col, newRow, newCol]);
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    return moves;
+                }
+
+                function estimateMovesToWin(board, player, depthLimit = 4) {
+                    let moves = getPossibleMoves(board, player);
+                    let bestMoves = Infinity;
+                    let winningSequence = [];
+
+                    function simulateMove(currentBoard, moveCount, sequence) {
+                        if (moveCount >= depthLimit) return { moves: Infinity, sequence: [] };
+                        let tempBoard = currentBoard.map(row => [...row]);
+                        tempBoard[sequence[moveCount - 1][0]][sequence[moveCount - 1][1]] = null;
+                        tempBoard[sequence[moveCount - 1][2]][sequence[moveCount - 1][3]] = player;
+                        if (countLines(tempBoard, player).max >= boardSize) {
+                            return { moves: moveCount, sequence: sequence.slice(0, moveCount) };
+                        }
+                        let nextMoves = getPossibleMoves(tempBoard, player);
+                        let minMoves = Infinity;
+                        let bestSeq = [];
+                        for (let nextMove of nextMoves) {
+                            let result = simulateMove(tempBoard, moveCount + 1, [...sequence, nextMove]);
+                            if (result.moves < minMoves) {
+                                minMoves = result.moves;
+                                bestSeq = result.sequence;
+                            }
+                        }
+                        return { moves: minMoves, sequence: bestSeq };
+                    }
+
+                    for (let move of moves) {
+                        let result = simulateMove(board, 1, [move]);
+                        if (result.moves < bestMoves) {
+                            bestMoves = result.moves;
+                            winningSequence = result.sequence;
+                        }
+                    }
+                    return { moves: bestMoves, sequence: winningSequence };
+                }
+
+                function evaluateMove(board, move, player, winningSequence) {
+                    let tempBoard = board.map(row => [...row]);
+                    tempBoard[move[0]][move[1]] = null;
+                    tempBoard[move[2]][move[3]] = player;
+
+                    let lines = countLines(tempBoard, player);
+                    let score = lines.max * 15;
+                    if (keyCells.some(([r, c]) => r === move[2] && c === move[3])) score += 10;
+
+                    let opponent = player === "Player" ? "AI" : "Player";
+                    let opponentLines = countLines(tempBoard, opponent);
+                    score -= opponentLines.max * 12;
+
+                    let centerDistance = Math.min(Math.abs(move[2] - 2.5), Math.abs(move[3] - 2.5));
+                    score += (2.5 - centerDistance) * 5;
+
+                    score += evaluateTrapping(board, move, player);
+
+                    if (opponentLines.max >= boardSize - 1) {
+                        let canBlock = false;
+                        let winningLine = opponentLines.winningLine;
+                        for (let [dr, dc] of [[0, 1], [1, 0], [1, 1], [1, -1]]) {
+                            let startRow = winningLine[0][0] - dr;
+                            let startCol = winningLine[0][1] - dc;
+                            let endRow = winningLine[winningLine.length - 1][0] + dr;
+                            let endCol = winningLine[winningLine.length - 1][1] + dc;
+                            if ((startRow === move[2] && startCol === move[3]) || (endRow === move[2] && endCol === move[3])) {
+                                canBlock = true;
+                            }
+                        }
+                        if (canBlock) score += 60;
+                    }
+
+                    if (winningSequence.length > 0 && move[0] === winningSequence[0][0] && move[1] === winningSequence[0][1] &&
+                        move[2] === winningSequence[0][2] && move[3] === winningSequence[0][3]) {
+                        score += 300;
+                    }
+
+                    let playerMoves = getPossibleMoves(tempBoard, player).length;
+                    let opponentMoves = getPossibleMoves(tempBoard, opponent).length;
+                    score += (playerMoves - opponentMoves) * 2;
+
+                    if (lastAIMoves.some(([lr, lc, nr, nc]) => lr === move[2] && lc === move[3] && nr === move[0] && nc === move[1])) {
+                        score -= 150;
+                    }
+
+                    return score;
+                }
+
+                function checkImmediateWinOrBlock() {
+                    let aiMoves = getPossibleMoves(gameState, "AI");
+                    for (let move of aiMoves) {
+                        let tempBoard = gameState.map(row => [...row]);
+                        tempBoard[move[0]][move[1]] = null;
+                        tempBoard[move[2]][move[3]] = "AI";
+                        if (countLines(tempBoard, "AI").max >= boardSize) return move;
+                    }
+
+                    let playerMoves = getPossibleMoves(gameState, "Player");
+                    for (let move of playerMoves) {
+                        let tempBoard = gameState.map(row => [...row]);
+                        tempBoard[move[0]][move[1]] = null;
+                        tempBoard[move[2]][move[3]] = "Player";
+                        if (countLines(tempBoard, "Player").max >= boardSize) {
+                            let blockMoves = aiMoves.filter(([_, __, r, c]) => r === move[2] && c === move[3]);
+                            if (blockMoves.length > 0) return blockMoves[0];
+                        }
+                    }
+
+                    let playerLines = countLines(gameState, "Player");
+                    if (playerLines.max >= boardSize - 1) {
+                        let winningLine = playerLines.winningLine;
+                        for (let [dr, dc] of [[0, 1], [1, 0], [1, 1], [1, -1]]) {
+                            let startRow = winningLine[0][0] - dr;
+                            let startCol = winningLine[0][1] - dc;
+                            let endRow = winningLine[winningLine.length - 1][0] + dr;
+                            let endCol = winningLine[winningLine.length - 1][1] + dc;
+                            let blockMoves = [];
+                            if (startRow >= 0 && startRow < boardSize && startCol >= 0 && startCol < boardSize && gameState[startRow][startCol] === null) {
+                                blockMoves = aiMoves.filter(([_, __, r, c]) => r === startRow && c === startCol);
+                                if (blockMoves.length > 0) return blockMoves[0];
+                            }
+                            if (endRow >= 0 && endRow < boardSize && endCol >= 0 && endCol < boardSize && gameState[endRow][endCol] === null) {
+                                blockMoves = aiMoves.filter(([_, __, r, c]) => r === endRow && c === endCol);
+                                if (blockMoves.length > 0) return blockMoves[0];
+                            }
+                        }
+                    }
+
+                    return null;
+                }
+
+                function aiMove() {
+                    if (gameOver) return;
+
+                    let immediateMove = checkImmediateWinOrBlock();
+                    if (immediateMove) {
+                        moveBall(immediateMove[0], immediateMove[1], immediateMove[2], immediateMove[3], "AI");
+                        lastAIMoves.unshift(immediateMove);
+                        if (lastAIMoves.length > 5) lastAIMoves.pop();
+                        aiMoveCount++;
+                        updateScore("AI", immediateMove[0], immediateMove[1], immediateMove[2], immediateMove[3]);
+                        moveCount++;
+                        checkWin();
+                        return;
+                    }
+
+                    let moves = getPossibleMoves(gameState, "AI");
+                    if (moves.length === 0) {
+                        return;
+                    }
+
+                    let aiWinPlan = estimateMovesToWin(gameState, "AI");
+                    let playerWinPlan = estimateMovesToWin(gameState, "Player");
+                    let winningSequence = aiWinPlan.moves <= playerWinPlan.moves ? aiWinPlan.sequence : [];
+
+                    let emptyCells = 0;
+                    for (let row = 0; row < boardSize; row++) {
+                        for (let col = 0; col < boardSize; col++) {
+                            if (gameState[row][col] === null) emptyCells++;
+                        }
+                    }
+                    const maxDepths = { 'easy': 3, 'medium': 5, 'hard': 7 };
+                    const factor = difficulty === 'easy' ? 12 : difficulty === 'medium' ? 8 : 4;
+                    let depth = Math.min(maxDepths[difficulty], Math.max(1, Math.floor(emptyCells / factor)));
+                    let movesToEvaluate = moves;
+
+                    if (aiWinPlan.moves <= 3 && aiWinPlan.moves <= playerWinPlan.moves) {
+                        let move = winningSequence[0];
+                        moveBall(move[0], move[1], move[2], move[3], "AI");
+                        lastAIMoves.unshift(move);
+                        if (lastAIMoves.length > 5) lastAIMoves.pop();
+                        aiMoveCount++;
+                        updateScore("AI", move[0], move[1], move[2], move[3]);
+                        moveCount++;
+                        checkWin();
+                        return;
+                    }
+
+                    let bestMove = null;
+                    let bestScore = -Infinity;
+                    let alpha = -Infinity;
+                    let beta = Infinity;
+
+                    movesToEvaluate.sort((a, b) => evaluateMove(gameState, b, "AI", winningSequence) - evaluateMove(gameState, a, "AI", winningSequence));
+
+                    for (let move of movesToEvaluate) {
+                        let tempBoard = gameState.map(row => [...row]);
+                        tempBoard[move[0]][move[1]] = null;
+                        tempBoard[move[2]][move[3]] = "AI";
+                        let score = evaluateMove(tempBoard, move, "AI", winningSequence);
+                        if (depth > 1) {
+                            score += minimax(tempBoard, depth - 1, false, alpha, beta);
+                        }
+                        if (score > bestScore) {
+                            bestScore = score;
+                            bestMove = move;
+                        }
+                        alpha = Math.max(alpha, bestScore);
+                        if (beta <= alpha) break;
+                    }
+
+                    if (bestMove) {
+                        moveBall(bestMove[0], bestMove[1], bestMove[2], bestMove[3], "AI");
+                        lastAIMoves.unshift(bestMove);
+                        if (lastAIMoves.length > 5) lastAIMoves.pop();
+                        aiMoveCount++;
+                        updateScore("AI", bestMove[0], bestMove[1], bestMove[2], bestMove[3]);
+                        moveCount++;
+                        checkWin();
+                    }
+                }
+
+                function minimax(board, depth, isMaximizing, alpha, beta) {
+                    if (depth === 0 || checkWinForState(board)) {
+                        let aiLines = countLines(board, "AI").max;
+                        let playerLines = countLines(board, "Player").max;
+                        return aiLines * 15 - playerLines * 12;
+                    }
+
+                    if (isMaximizing) {
+                        let bestScore = -Infinity;
+                        let moves = getPossibleMoves(board, "AI");
+                        moves.sort((a, b) => evaluateMove(board, b, "AI", []) - evaluateMove(board, a, "AI", []));
+                        for (let move of moves) {
+                            let tempBoard = board.map(row => [...row]);
+                            tempBoard[move[0]][move[1]] = null;
+                            tempBoard[move[2]][move[3]] = "AI";
+                            let score = minimax(tempBoard, depth - 1, false, alpha, beta);
+                            bestScore = Math.max(bestScore, score);
+                            alpha = Math.max(alpha, bestScore);
+                            if (beta <= alpha) break;
+                        }
+                        return bestScore;
+                    } else {
+                        let bestScore = Infinity;
+                        let moves = getPossibleMoves(board, "Player");
+                        moves.sort((a, b) => evaluateMove(board, a, "Player", []) - evaluateMove(board, b, "Player", []));
+                        for (let move of moves) {
+                            let tempBoard = board.map(row => [...row]);
+                            tempBoard[move[0]][move[1]] = null;
+                            tempBoard[move[2]][move[3]] = "Player";
+                            let score = minimax(tempBoard, depth - 1, true, alpha, beta);
+                            bestScore = Math.min(bestScore, score);
+                            beta = Math.min(beta, bestScore);
+                            if (beta <= alpha) break;
+                        }
+                        return bestScore;
+                    }
+                }
+
+                function showCertificate(title, result, timeTaken) {
+                    const overlay = document.getElementById("overlay");
+                    const certificate = document.getElementById("certificate");
+
+                    overlay.style.display = "block";
+                    certificate.style.display = "block";
+                    overlay.classList.remove("hidden");
+                    certificate.classList.remove("hidden");
+
+                    requestAnimationFrame(() => {
+                        overlay.style.opacity = "1";
+                        certificate.style.opacity = "1";
+                    });
+
+                    document.getElementById("certificateTitle").textContent = title;
+                    document.getElementById("certificateResult").textContent = result;
+                    document.getElementById("certificatePlayerScore").textContent = playerScore;
+                    document.getElementById("certificateAIScore").textContent = aiScore;
+                    document.getElementById("certificateTime").textContent = timeTaken;
+                }
+
+                function hideCertificate() {
+                    const overlay = document.getElementById("overlay");
+                    const certificate = document.getElementById("certificate");
+
+                    overlay.style.opacity = "0";
+                    certificate.style.opacity = "0";
+
+                    setTimeout(() => {
+                        overlay.classList.add("hidden");
+                        certificate.classList.add("hidden");
+                        overlay.style.display = "none";
+                        certificate.style.display = "none";
+                        overlay.style.opacity = "";
+                        certificate.style.opacity = "";
+                    }, 200);
+
+                    try { document.getElementById("buttonClickSound").play(); } catch (e) {}
+                }
+
+                initPreviewBoard();
+                //]]>
+            </script>
+        </b:if>
+    </b:if>
+
+    <b:section id='main-section' preferred='yes'>
+      <b:widget id='HTML1' locked='false' title='Gomoku Battle' type='HTML' version='1'>
+        <b:widget-settings>
+          <b:widget-setting name='content'/>
+        </b:widget-settings>
+        <b:includable id='main'>
+                <b:if cond='data:title != &quot;&quot;'>
+                    <h2 class='title'><data:title/></h2>
+                </b:if>
+                <div class='widget-content'>
+                    <data:content/>
+                </div>
+                <b:include name='quickedit'/>
+            </b:includable>
+      </b:widget>
+    </b:section>
+</body>
+</html>
