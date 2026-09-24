@@ -1,6 +1,6 @@
 # Gomoku Battle 🎮
 
-Production-ready browser-based Gomoku strategy game built with **HTML5**, **CSS3**, and **JavaScript**
+Production-ready Gomoku strategy game built with **HTML5**, **CSS3**, and **JavaScript**
 
 The project demonstrates interactive game development, custom game logic, responsive UI engineering, move validation, win-condition detection, and optimized client-side rendering.
 
