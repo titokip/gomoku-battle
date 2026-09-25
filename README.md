@@ -12,7 +12,8 @@ Play the game here:
 
 https://gomokugame.blogspot.com
 
-Please note that while the blogspot link serves as a functional demo showcase, the underlying game architecture is built on highly clean, modular, and optimized code. The final production build features an elevated visual aesthetic, smoother animations, and a much sharper UI/UX design than what is seen in this basic preview.
+Please note that while the blogspot link serves as a functional demo showcase, the <strong>underlying game architecture is built on highly clean, modular, and optimized code</strong>. The final production build features an elevated visual aesthetic, smoother animations, and a much sharper UI/UX design than what is seen in this basic preview.
+
 ---
 
 ## ✨ Features
